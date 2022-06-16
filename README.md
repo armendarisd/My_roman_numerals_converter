@@ -2,18 +2,18 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Convert arabic numbers into roman numbers
 
 ## Description
-TODO - How have you solved the problem?
+Storing the roman numbers into directories and searching them with hash
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+No need
 
 ## Usage
-TODO - How does it work?
+Gandalf ex00
 ```
-./my_project argument1 argument2
+
 ```
 
 ### The Core Team
