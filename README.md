@@ -8,10 +8,10 @@ Convert arabic numbers into roman numbers
 Storing the roman numbers into directories and searching them with hash
 
 ## Installation
-No need
+The person should write gandalf ex00 in the terminal
 
 ## Usage
-Gandalf ex00
+The person should write gandalf ex00 in the terminal
 ```
 
 ```
